@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../1bit_fadd_struct.vhd" \
+"../../../../../4bit_fadd_struct.vhd" \
+"../../../../../4bit_fadd_struct_tb.vhd" \
+
+# Do not sort compile order
+nosort

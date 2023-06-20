@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8221448866461009430  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot fadd_4bit_struct_tb_behav xil_defaultlib.fadd_4bit_struct_tb" , 
+    buildDate : "Apr 18 2022" , 
+    buildTime : "16:05:34" , 
+    linkCmd : "C:\\Users\\user\\Xiling_Vivado\\Vivado\\2022.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/fadd_4bit_struct_tb_behav/xsimk.exe\"   \"xsim.dir/fadd_4bit_struct_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/fadd_4bit_struct_tb_behav/obj/xsim_1.win64.obj\" -L\"C:\\Users\\user\\Xiling_Vivado\\Vivado\\2022.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
